@@ -1,0 +1,240 @@
+/* You can add global styles to this file, and also import other style files */
+.card{
+  width: 540px;
+  height: 104.4px;
+  top: 90.61px;
+  left: 530px;
+  right: 356px;
+  border: 1px;
+  margin: 9px;
+
+
+}
+h5{
+text-align: right;
+color: darkgray;
+}
+
+.card-img-top
+{
+  border-radius: 50%;
+  width: 100px;
+  margin-left: 100px;
+  height: 70px;
+
+}
+#ha {
+ width:  490px;
+ height: 388px;
+ top: 4.5px;
+ left: 30px;
+ padding:18px;
+}
+.col{
+  height: 40px;
+  width: 240px;
+  text-align: right;
+  background-color: rgba(238, 243, 243, 0.548)
+}
+p {
+  margin-left: 139px;
+  
+}
+.input-group {
+  width: 90px;
+  height: 44px;
+}
+#cd{
+  right: 340px;
+  margin: 9px;
+  margin-top: 6px;
+  width: 333px;
+  height: 45.42px;
+}
+
+
+#ui{
+  margin: 34px;
+  width: 374px;
+height: 81.47px;
+top: 778.53px;
+left: 1264px;
+
+}
+h4{
+  margin-left: 489px;
+}
+
+.form-floating{
+right: 340px;
+margin-bottom: 188px;
+}
+
+#ji{
+  margin: 6px;
+  right: 340px;
+  bottom:  90.61px;
+  width: 333px;
+  height: 45.42px;
+}
+#ty{
+  margin: 34px;
+  width: 333px;
+  height: 45.42px;
+}
+
+
+
+
+.coll{
+  width: 374px;
+height: 81.47px;
+top: 778.53px;
+left: 1264px;
+border-radius: 9px;
+border: 1px;
+
+}
+#val{
+  height: 40px;
+  width: 340px;
+  background-color: rgba(228, 236, 236, 0.548)
+}
+fieldset{
+  text-align: center;
+  margin-right: 70px;
+  margin-left: 163px;
+  height: 2200px;
+  background-color: rgb(194, 192, 192);
+}
+.placeholder{
+   text-align: right;
+}
+#ta{
+  
+  width: 900px;
+height: 2200.51px;
+top: 80.12px;
+left:  40px;
+border-radius: 10px;
+
+  
+}
+table, th, td  ,tr{
+  border: 1px solid;
+  height: 55px;
+  width: 45px;
+}
+#fe{
+
+font-size: 40px;
+margin-left: 278px;
+margin-bottom: 77px;
+background-color: darkgrey;
+color: aliceblue;
+border-radius: 0px;
+
+
+}
+.ho{
+margin: 22px;
+}
+.po{
+right: 90px;
+}
+table, td, th {
+border: 1px solid rgb(199, 189, 189);
+color: rgb(20, 20, 20);
+}
+#wd{
+background-color: white;
+color: red;
+}
+#wf{
+background-color: black;
+color: white;
+margin: 3px;
+}
+#vc{
+margin-bottom: 12px;
+}
+#bh{
+color: #000;
+}
+table {
+border-collapse: collapse;
+ height:  60%;
+ width: 70%;
+}
+#fs{
+font-size: 40px;
+margin-left: 278px;
+margin-top: 33px;
+background-color: darkgrey;
+color: aliceblue;
+border-radius: 50%px;
+
+}
+#ft{
+font-size: 40px;
+margin-left: 278px;
+background-color: darkgrey;
+color: aliceblue;
+border-radius: 0px;
+border-radius: 50%;
+}
+#mj{
+
+background-color: white;
+
+}
+h6{
+margin-left: 312px;
+}
+
+.form-check {
+   display: block; 
+   min-height: 1.5rem; 
+   right:  907px; 
+   padding-left: 157px;
+   margin-bottom: 0.125rem; 
+}
+.form-check-input{
+margin-right: 129px;
+
+}
+.form-switch {
+  margin: 23px; 
+  left: 510px;
+}
+#yr{
+  
+  left: 510px;
+}
+
+@media (min-width: 768px){
+.col-md-6 {
+   flex: 0 0 auto;
+left:510px ;
+   width: 60%; 
+
+} 
+}
+.input-group{
+  height: 40px;
+  width: 240px;
+  margin: 6px;
+  
+}
+#inputState{
+  height: 40px;
+  width: 240px;
+  margin: 2px;
+  
+}
+#ig{
+  height: 50px;
+  width: 340px;
+}
+
+
